@@ -1,4 +1,4 @@
-# Pre-College-Opportunities
+# Welcome!
 Bunch of opportunities for high school students that I wish I knew about before. I try to only include opportunities that pay you, are free, or are highly substidized. 
 
 Please add any more opportunities you know about! The more the merrier!
