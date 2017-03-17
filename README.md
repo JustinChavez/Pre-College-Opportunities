@@ -8,6 +8,7 @@ For any questions or updates you can email me here: juscha1@umbc.edu
 # High School
 | Opportunity        | Grades         | Time | Location |App Deadline  | Cost | Notes |
 | ----------------- |-------------  | ---------| -------| ---------| -----| -----|
+| [Aspire NYU](http://www.sps.nyu.edu/academics/hsacademy/summer-programs/aspire.html) | 10 | July 31–August 4, 2017 | New York University | March 27, 2017 | Free | Must be a current sophomore from the New York metro/tri-state area |
 | [Mission Engineering](https://viterbipk12.usc.edu/missionengineering/)| 9,10,11 | July 17, 2017 – July 28, 2017 | University of Southern California| May 1, 2017 | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
 | [Summer Engineering Camp](https://viterbipk12.usc.edu/camp/) | 5, 6, 7 | July 10 to July 21, 2017 | University of Souther California | May 1st | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
 | [Quantum Cryptography School for Young Students](https://uwaterloo.ca/institute-for-quantum-computing/programs/quantum-cryptography-school-young-students) | 10-12th | August 11-18, 2017 | University of Waterloo |Friday, March 24, 2017 at 5 p.m. (EDT). | $250 CAD | Financial Aid/Scholarship available | 
@@ -22,3 +23,4 @@ For any questions or updates you can email me here: juscha1@umbc.edu
 | [Summer Engineering Experience for Girls](Summer Engineering Experience for Girls) | Women entering 8th or 9th grade in Fall 2017 | July 10 – July 21, 2017, Monday through Friday, from 9:00 am to 3:00 pm | Carnegie Mellon University | Monday, May 1, 2017. | Free | May need to look into getting housing | 
 | [SUCCEED Student Program](http://cedmcenter.org/succeed/succeed-student-program/) | Students enrolled in 9th or 10th grade as of April 2017 | Monday, July 17 to Friday, July 21, 2017, from 8:00 am – 5:00 pm | Carnegie Mellon University | June 5, 2017 | Free | 
 | [Summer Academy for Mathematics and Science](http://admission.enrollment.cmu.edu/pages/diversity-sams) | High School Seniors | July 1st - August 12 | Carnegie Mellon University | March 1st (applications are considered on a rolling basis) | Free tuition, housing, and dining | Seeks to recruit underserved and underrepresented students. | 
+|(Summer Stem Program at The Cooper Union)[https://cooper.edu/engineering/summer-stem] | 10,11 | Monday, July 10 through Thursday, August 17 | Cooper Union (NYC) | $3,300 (Financial aid up to 100% for low income students) | |
