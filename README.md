@@ -8,7 +8,7 @@ For any questions or updates you can email me here: juscha1@umbc.edu
 # High School
 | Opportunity        | Grades         | Time | Location |App Deadline  | Cost | Notes |
 | ----------------- |-------------  | ---------| -------| ---------| -----| -----|
-|[NY Metro Startup Tech Summer](http://www.nfte.com/what/programs/new-york-metro/ny-metro-startup-summer-tech) | 9,10,11 in NYC | 8 weeks, July-August |NYC | Free |  |
+|[NY Metro Startup Tech Summer](http://www.nfte.com/what/programs/new-york-metro/ny-metro-startup-summer-tech) | 9,10,11 in NYC | 8 weeks, July-August |NYC |5:00pm Friday, March 31| Free |  |
 |[SPICE Camp](http://www.cmse.umd.edu/k12/summer/spice) | 9, 10 | June 26th - June 30th | College Park, MD | March 31st | $350 | For young women interested in learning more about engineering | 
 | [Aspire NYU](http://www.sps.nyu.edu/academics/hsacademy/summer-programs/aspire.html) | 10 | July 31–August 4, 2017 | New York University | March 27, 2017 | Free | Must be a current sophomore from the New York metro/tri-state area |
 | [Mission Engineering](https://viterbipk12.usc.edu/missionengineering/)| 9,10,11 | July 17, 2017 – July 28, 2017 | University of Southern California| May 1, 2017 | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
