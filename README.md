@@ -27,6 +27,7 @@ For any questions or updates you can email me here: juscha1@umbc.edu
 | [Summer Academy for Mathematics and Science](http://admission.enrollment.cmu.edu/pages/diversity-sams) | High School Seniors | July 1st - August 12 | Carnegie Mellon University | March 1st (applications are considered on a rolling basis) | Free tuition, housing, and dining | Seeks to recruit underserved and underrepresented students. | 
 | [Summer Stem Program at The Cooper Union](https://cooper.edu/engineering/summer-stem) | 10,11 | Monday, July 10 through Thursday, August 17 | Cooper Union (NYC) | $3,300 (Financial aid up to 100% for low income students) | |
 | [Summer High School Intern Program at NIST](https://www.nist.gov/ohrm/summer-high-school-intern-program) | Completed 11th | 8 weeks, mid June to mid August | Gaithersburg, MD & Boulder, CO | February 1  | Free | Must be interested in scientific research |
+| [Google Computer Summer Science Institute](https://edu.google.com/resources/programs/computer-science-summer-institute/) | Graduating Seniors | Three Weeks | Google Offices | March 2nd, 2018 | Free | Especially for students from historically underrepresented groups in Computer Sceince. |
 
 # External Internship Lists
 [Pathways to Science](http://www.pathwaystoscience.org/K12.aspx)
