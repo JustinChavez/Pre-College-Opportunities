@@ -1,3 +1,8 @@
+# Update (09/2018)
+I intend to update this with Summer 2019 opportunities. Most links included should direct to the right application, but I will update the rest such as the app deadlines and dates. 
+
+I would love to know how this may have helped you or any feedback! Send me an email at **juscha1@umbc.edu **
+
 # Welcome!
 Bunch of opportunities for high school students that I wish I knew about before. Most are within the STEM field and are during summer 2017. I try to only include opportunities that pay you, are free, or are highly substidized. 
 
