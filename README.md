@@ -4,7 +4,7 @@ I intend to update this with Summer 2019 opportunities. Most links included shou
 I would love to know how this may have helped you or any feedback! Send me an email at juscha1@umbc.edu 
 
 # Welcome!
-Bunch of opportunities for high school students that I wish I knew about before. Most are within the STEM field and are during summer 2017. I try to only include opportunities that pay you, are free, or are highly substidized. 
+Bunch of opportunities for high school students that I wish I knew about before. Most are within the STEM field and are during the summer. I try to only include opportunities that pay you, are free, or are highly substidized. 
 
 Please add any more opportunities you know about! The more the merrier!
 
@@ -15,11 +15,11 @@ For any questions or updates you can email me here: juscha1@umbc.edu
 | ----------------- |-------------  | ---------| -------| ---------| -----| -----|
 |[NY Metro Startup Tech Summer](http://www.nfte.com/what/programs/new-york-metro/ny-metro-startup-summer-tech) | 9,10,11 in NYC | 8 weeks, July-August |NYC |5:00pm Friday, March 31| Free |  |
 |[SPICE Camp](http://www.cmse.umd.edu/k12/summer/spice) | 9, 10 | June 26th - June 30th | College Park, MD | March 31st | $350 | For young women interested in learning more about engineering | 
-| [Aspire NYU](http://www.sps.nyu.edu/academics/hsacademy/summer-programs/aspire.html) | 10 | July 31–August 4, 2017 | New York University | March 27, 2017 | Free | Must be a current sophomore from the New York metro/tri-state area |
-| [Mission Engineering](https://viterbipk12.usc.edu/missionengineering/)| 9,10,11 | July 17, 2017 – July 28, 2017 | University of Southern California| May 1, 2017 | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
+| [Aspire NYU](http://www.sps.nyu.edu/academics/hsacademy/summer-programs/aspire.html) | 10 | July 31–August 4 | New York University | March 27 | Free | Must be a current sophomore from the New York metro/tri-state area |
+| [Mission Engineering](https://viterbipk12.usc.edu/missionengineering/)| 9,10,11 | July 17 – July 28 | University of Southern California| May 1 | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
 | [Summer Engineering Camp](https://viterbipk12.usc.edu/camp/) | 5, 6, 7 | July 10 to July 21 | University of Souther California | May 1st | $750 (All low income students accepted will have a FULL SCHOLARSHIP | Must be able to commute|
-| [Quantum Cryptography School for Young Students](https://uwaterloo.ca/institute-for-quantum-computing/programs/quantum-cryptography-school-young-students) | 10-12th | August 11-18, 2017 | University of Waterloo |Friday, March 24 at 5 p.m. (EDT). | $250 CAD | Financial Aid/Scholarship available | 
-| [INTERNATIONAL SUMMER SCHOOL FOR YOUNG PHYSICISTS](http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists) | Entering 11-12 | July 16 - 29| Perimeter Institute (Waterloo, Ontario) | March 31, 2017	 |  $500 (CDN) | Travel costs covered for Canadian students, ground transportation covered, Financial aid available |
+| [Quantum Cryptography School for Young Students](https://uwaterloo.ca/institute-for-quantum-computing/programs/quantum-cryptography-school-young-students) | 10-12th | August 11-18 | University of Waterloo |Friday, March 24 at 5 p.m. (EDT). | $250 CAD | Financial Aid/Scholarship available | 
+| [INTERNATIONAL SUMMER SCHOOL FOR YOUNG PHYSICISTS](http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists) | Entering 11-12 | July 16 - 29| Perimeter Institute (Waterloo, Ontario) | March 31 |  $500 (CDN) | Travel costs covered for Canadian students, ground transportation covered, Financial aid available |
 | [Code Squad](https://uwaterloo.ca/catalyst/codesquad) | Girls in grades 7 - 10 | Jan 21 - May 6 (Not a full time program) | Combination of in-person events (Waterloo) and at home activities | No app, but kickoff is Jan 21  | No cost, but $200 registration cost for the conference in the middle of the program (financial aid available) | [Helpful FAQ](https://uwaterloo.ca/catalyst/code-squad-frequently-asked-questions) |
 | [Program in Algorithmic and Combinatorial Thinking](https://algorithmicthinking.org) | Anyone in high school (finished grade 9) | June 26-July 28 | Princeton University | March 05 | $1000 for registration | [Helpful FAQ](https://algorithmicthinking.org/faq/) |
 | [Laboratory Learning Program](http://research.princeton.edu/students/research-opportunities) | High School, must be age 16 or older by June 15  | Varies per lab, but at least 7 weeks during the summer | Princeton University | March 15 | No cost | [Helpful FAQ](http://research.princeton.edu/students/research-opportunities/faqs/) | 
